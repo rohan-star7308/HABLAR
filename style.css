@@ -1,0 +1,30 @@
+.heading_div{
+    background-color: cornflowerblue;
+}
+.name_logo{
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+}
+.hear_talk{
+    background-color: mediumspringgreen;
+    height: 540px;
+    width:750px;
+    font-size: xx-large;
+}
+.body{
+    background-color: gold;
+}
+#textbox,#textbox2{
+    width: 400px;
+    height: 200px;
+}
+#microphone,#speaker{
+    width: 75px;px ;
+    height: 75px;px ;
+    font-size: 50;
+    align-self:auto;
+}
+#bth,#bth2{
+    background-color: cornflowerblue;
+}
